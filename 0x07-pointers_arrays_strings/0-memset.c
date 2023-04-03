@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
- * -memeset - fills memory with a constant byte,
+ * _memeset - fills memory with a constant byte,
  *  @s: memory area.
  *  @b: constant byte.
  *  @n: bytes filled.
