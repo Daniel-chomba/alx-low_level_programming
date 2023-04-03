@@ -1,10 +1,10 @@
 # Even more pointers, arrays and strings
 
-Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about pointers and arrays in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about pointers and arrays in **C languag**.
 
-## Technologies
+##Technologies
 
-* c files are compiled using gcc compiler
+* C files are compiled using gcc compiler
 * Using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 * Tested on Ubuntu 20.04 LTS
 
@@ -12,6 +12,6 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 
 All of the following files are programs written in C:
 
-| Filename | | Description |
-| -------- | | ----------- |
-|0-memset.c| | Fills memory area |
+| Filename  | Description |
+| --------  | ----------- |
+|0-memset.c | Fills memory area |
